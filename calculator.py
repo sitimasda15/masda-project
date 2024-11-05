@@ -4,4 +4,4 @@ c = a + b
 print(c)
 
 perkalian = a*b
-print(perkalian
+print(perkalian)
